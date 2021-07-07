@@ -10,18 +10,21 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Douglas',
+  subtitle: 'I am a Java Software Engineer and PhD Researcher',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  img: 'profile.png',
+  paragraphOne:
+    'Software engineer with over four years of professional experience using Java technologies. Developed an integrated procurement system at Visagio using the DevOps methodology. And developing a Java graphical tool using a microservice-based architecture in a research project in the smart grid area.',
+  paragraphTwo:
+    'Computer science researcher (Ph. D. candidate) with over eight years of academic experience studying multimedia system modelling and producing Java software to enhance the development of immersive multimedia applications.',
+  paragraphThree:
+    'Several scientific papers published in relevant international conferences and journals.',
+  resume: 'https://drive.google.com/file/d/1-KZIGcqEkUASmmMTntTZka7GF9LjaRys/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
